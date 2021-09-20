@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, This is my first GitHUb Page!
+Hi, This is my first GitHub Page!
